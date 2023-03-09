@@ -1,0 +1,23 @@
+{
+  "name": "Kritsakorn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeroPunch/2013110180-RESTFULAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeroPunch/2013110180-RESTFULAPI/issues"
+  },
+  "homepage": "https://github.com/KeroPunch/2013110180-RESTFULAPI#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
